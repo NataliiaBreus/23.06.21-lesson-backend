@@ -1,0 +1,25 @@
+{
+  "name": "backend2",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "npx nodemon ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliiaBreus/22.06.21-lesson-backEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliiaBreus/22.06.21-lesson-backEnd/issues"
+  },
+  "homepage": "https://github.com/NataliiaBreus/22.06.21-lesson-backEnd#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
